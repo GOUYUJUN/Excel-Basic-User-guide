@@ -1,4 +1,4 @@
-# Excel-Basic-User-guide
+# Excel基础规范教程
 
 资源名称：Excel基础教程（王佩丰老师） 
 
